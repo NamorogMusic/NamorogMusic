@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Namorog
-A musician & developer.
+- 👋 Hi, I’m Namorog - a musician & developer.
